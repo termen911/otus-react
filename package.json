@@ -1,0 +1,19 @@
+{
+  "name": "otus-react",
+  "version": "0.0.1",
+  "description": "Project for OTUS React.js Developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/termen911/otus-react.git"
+  },
+  "author": "Sergey Nechaev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/termen911/otus-react/issues"
+  },
+  "homepage": "https://github.com/termen911/otus-react#readme"
+}
